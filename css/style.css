@@ -1,0 +1,102 @@
+body{
+    background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+h1{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+
+.probando{
+    background: darkgray;
+    display: table;
+    height: 260px;
+    width: 300px;
+    margin: 2rem auto;
+    letter-spacing: normal;
+    word-spacing: 1mm;
+    text-align: center;
+}
+
+.probando p{
+    margin: 0%;
+    padding: 0 1rem;
+    vertical-align: middle;
+}
+
+.mia{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.soy{
+    width: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.feliz{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.happy{
+    background: darkgray;
+    font-family: arial;
+    display: table;
+    word-spacing: 1mm;
+    margin: 2rem auto;
+}
+
+.enojado{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.unicos{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.decicion{
+    margin: auto;
+    display: flex;
+}
+
+.meta{
+    width: 500px;
+    margin: auto;
+    display: flex;
+}
+
+.mama{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.menu{
+    font-style: italic;
+    text-align: center;
+    word-spacing: 1.5mm;
+    background-color: rgb(243, 250, 250);
+}
